@@ -7,7 +7,7 @@ Este é o repositório do projeto final da disciplina BackEnd. Neste projeto, de
 - Louise Afonso Lemos Alonso(louisezlemos@gmail.com)
 - Maria Fernanda (mflimanogueira@gmail.com)
 - Calvin Almeida ribeiro  (calvinribeirouniesp1@gmail.com)
-- Tárcyla Kauanne (———————)
+- Tárcyla Kauanne (tarcylakauane7@gmail.com)
 
 ## Descrição do Projeto
 
